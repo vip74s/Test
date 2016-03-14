@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\_delegate\_delegate\bin\Debug\_delegate.exe.config
+C:\Users\Administrator\Desktop\_delegate\_delegate\bin\Debug\_delegate.exe
+C:\Users\Administrator\Desktop\_delegate\_delegate\bin\Debug\_delegate.pdb
+C:\Users\Administrator\Desktop\_delegate\_delegate\obj\Debug\_delegate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\_delegate\_delegate\obj\Debug\_delegate.exe
+C:\Users\Administrator\Desktop\_delegate\_delegate\obj\Debug\_delegate.pdb
